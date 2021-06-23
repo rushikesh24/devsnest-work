@@ -1,9 +1,12 @@
-# Devsnest Projects
+<center><h3>Devsnest Projects</h3></center>
 
-## These are the projects I done while learning with Devsnest
+This repository is a collection of all the projects that I've worked while learning with [Devsnest](https://www.devsnest.in/) 
+------------------
 
-| No.           | Name                          |Description  |
-| --------------| -----------                   |-------------|
-| 1             | [Hangman](hangman/)                       | Basic CLI project of Hangman with hint feature | 
-| 2             | [KBC](kbc/)                           | Basic CLI project of KBC with lifeline feature |
-| 3             | [Flask REST API basic example](flask-example)  | Basic REST API with GET, POST method is implemented | 
+1. [Hangman](hangman/)
+2. [KBC](kbc/)
+3. [Linkedin Connection Acceptor](linkedin_connection_acceptor/)
+4. [Flask REST API](flask-API/)
+5. [Frontend](frontend/)
+    * [Day 1 & 2](frontend/day_1_2)
+    * [Day 3](frontend/day_3)
